@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Wardro</string>
+    <string name="CaptureImage">Capture Image</string>
+    <string name="EditImage">Edit Image</string>
+</resources>
